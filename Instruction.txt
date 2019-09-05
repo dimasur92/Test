@@ -1,0 +1,2 @@
+1. Запустить командную строку (Пуск-Выполнить-cmd), вписать в командную строку команду: g++ Upload.h main.cpp -o upload -lopencv_imgproc -lopencv_highgui
+2. Запустить upload.exe
