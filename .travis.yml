@@ -1,5 +1,6 @@
 os: windows
 language: cpp
 
-script: g++ Upload.h main.cpp -o upload
-upload.exe
+script:
+	g++ Upload.h main.cpp -o upload
+	upload.exe
